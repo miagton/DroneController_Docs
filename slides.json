@@ -4,42 +4,58 @@
   "slides": [
     {
       "title": "What is DronController?",
-      "text": "The big picture — control, video, mapping and telemetry in one app.",
+      "text": "Control, video, mapping and telemetry — in one app.",
+      "title_uk": "Що таке DronController?",
+      "text_uk": "Керування, відео, мапа й телеметрія — в одному застосунку.",
       "url": "https://github.com/miagton/DroneController_Docs/wiki/Overview"
     },
     {
       "title": "Reading the HUD",
-      "text": "Attitude horizon, GPS and telemetry — and where they come from.",
+      "text": "Horizon, heading, GPS and telemetry — and where they come from.",
+      "title_uk": "Як читати HUD",
+      "text_uk": "Авіагоризонт, курс, GPS і телеметрія — та їхні джерела.",
       "url": "https://github.com/miagton/DroneController_Docs/wiki/HUD"
     },
     {
       "title": "Working with the Map",
-      "text": "Providers, offline tiles and the attitude overlay.",
+      "text": "Providers, zoom, follow mode and Starlink heading.",
+      "title_uk": "Робота з мапою",
+      "text_uk": "Провайдери, масштаб, режим стеження та курс Starlink.",
       "url": "https://github.com/miagton/DroneController_Docs/wiki/Map"
     },
     {
-      "title": "General settings",
-      "text": "Units, startup and overall app behavior.",
+      "title": "Apply your config",
+      "text": "Import the ready config in General settings (Browse or drag-drop).",
+      "title_uk": "Застосуйте конфіг",
+      "text_uk": "Імпортуйте готовий конфіг у «Загальних» (Огляд або перетягування).",
       "url": "https://github.com/miagton/DroneController_Docs/wiki/General"
     },
     {
       "title": "Streaming looks choppy?",
-      "text": "Tune jitter budget, codec and FPS for smooth video.",
+      "text": "Check the stream health badge and the tuning guide.",
+      "title_uk": "Смикане відео?",
+      "text_uk": "Перевірте позначку стану потоку та посібник з налаштування.",
       "url": "https://github.com/miagton/DroneController_Docs/wiki/Streaming"
     },
     {
       "title": "Getting connected",
       "text": "Transports, endpoints and connection health.",
+      "title_uk": "Підключення",
+      "text_uk": "Транспорти, кінцеві точки та стан зв'язку.",
       "url": "https://github.com/miagton/DroneController_Docs/wiki/Connection"
     },
     {
       "title": "Control & input",
-      "text": "Map sticks, RC channels and MANUAL_CONTROL.",
+      "text": "Remap axes, bind buttons and calibrate the joystick.",
+      "title_uk": "Керування та ввід",
+      "text_uk": "Перепризначення осей, прив'язка кнопок і калібрування джойстика.",
       "url": "https://github.com/miagton/DroneController_Docs/wiki/Control"
     },
     {
       "title": "Secure links: WireGuard",
-      "text": "Set up and troubleshoot remote tunnels.",
+      "text": "Select a tunnel, connect and watch the monitor.",
+      "title_uk": "Захищені канали: WireGuard",
+      "text_uk": "Оберіть тунель, підключіться та стежте за монітором.",
       "url": "https://github.com/miagton/DroneController_Docs/wiki/WireGuard"
     }
   ]

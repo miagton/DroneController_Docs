@@ -17,10 +17,15 @@ Public documentation for **DronController**.
   "docsUrl": "https://github.com/miagton/DroneController_Docs/wiki",
   "background": null,
   "slides": [
-    { "title": "Short heading", "text": "A sentence or two.", "url": ".../wiki/PageName", "image": null }
+    {
+      "title": "Short heading", "text": "A sentence or two.",
+      "title_uk": "Короткий заголовок", "text_uk": "Речення-два.",
+      "url": ".../wiki/PageName", "image": null
+    }
   ]
 }
 ```
 
-Keep `title` to one line and `text` to a sentence or two — the launcher panel is compact. `image` /
-`background` are reserved for a future visual phase and ignored for now.
+The launcher shows **both languages** on each slide. `title_uk` / `text_uk` are optional — omit them and only
+English is shown. Keep `title` to one line and `text` to a sentence or two — the launcher panel is compact.
+`image` / `background` are reserved for a future visual phase and ignored for now.
