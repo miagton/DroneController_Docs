@@ -31,10 +31,10 @@
       "url": "https://github.com/miagton/DroneController_Docs/wiki/General"
     },
     {
-      "title": "Streaming looks choppy?",
-      "text": "Check the stream health badge and the tuning guide.",
-      "title_uk": "Смикане відео?",
-      "text_uk": "Перевірте позначку стану потоку та посібник з налаштування.",
+      "title": "Streaming settings",
+      "text": "Review of streaming settings.",
+      "title_uk": "Налаштування стрімів",
+      "text_uk": "Огляд налаштувань стрімів.",
       "url": "https://github.com/miagton/DroneController_Docs/wiki/Streaming"
     },
     {
