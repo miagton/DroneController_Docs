@@ -1,0 +1,46 @@
+{
+  "docsUrl": "https://github.com/miagton/DroneController_Docs/wiki",
+  "background": null,
+  "slides": [
+    {
+      "title": "What is DronController?",
+      "text": "The big picture — control, video, mapping and telemetry in one app.",
+      "url": "https://github.com/miagton/DroneController_Docs/wiki/Overview"
+    },
+    {
+      "title": "Reading the HUD",
+      "text": "Attitude horizon, GPS and telemetry — and where they come from.",
+      "url": "https://github.com/miagton/DroneController_Docs/wiki/HUD"
+    },
+    {
+      "title": "Working with the Map",
+      "text": "Providers, offline tiles and the attitude overlay.",
+      "url": "https://github.com/miagton/DroneController_Docs/wiki/Map"
+    },
+    {
+      "title": "General settings",
+      "text": "Units, startup and overall app behavior.",
+      "url": "https://github.com/miagton/DroneController_Docs/wiki/General"
+    },
+    {
+      "title": "Streaming looks choppy?",
+      "text": "Tune jitter budget, codec and FPS for smooth video.",
+      "url": "https://github.com/miagton/DroneController_Docs/wiki/Streaming"
+    },
+    {
+      "title": "Getting connected",
+      "text": "Transports, endpoints and connection health.",
+      "url": "https://github.com/miagton/DroneController_Docs/wiki/Connection"
+    },
+    {
+      "title": "Control & input",
+      "text": "Map sticks, RC channels and MANUAL_CONTROL.",
+      "url": "https://github.com/miagton/DroneController_Docs/wiki/Control"
+    },
+    {
+      "title": "Secure links: WireGuard",
+      "text": "Set up and troubleshoot remote tunnels.",
+      "url": "https://github.com/miagton/DroneController_Docs/wiki/WireGuard"
+    }
+  ]
+}
