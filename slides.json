@@ -24,10 +24,10 @@
       "url": "https://github.com/miagton/DroneController_Docs/wiki/Map"
     },
     {
-      "title": "Apply your config",
-      "text": "Import the ready config in General settings (Browse or drag-drop).",
-      "title_uk": "Застосуйте конфіг",
-      "text_uk": "Імпортуйте готовий конфіг у «Загальних» (Огляд або перетягування).",
+      "title": "Pick your config",
+      "text": "In General, choose your UGV type and preset from the two dropdowns — configs are fetched automatically.",
+      "title_uk": "Оберіть конфіг",
+      "text_uk": "У «Загальних» оберіть тип НРК і пресет у двох списках — конфіги завантажуються автоматично.",
       "url": "https://github.com/miagton/DroneController_Docs/wiki/General"
     },
     {
