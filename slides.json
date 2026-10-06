@@ -4,59 +4,59 @@
   "slides": [
     {
       "title": "What is DronController?",
-      "text": "Control, video, mapping and telemetry — in one app.",
+      "text": "Driving, video, map and telemetry for your UGV — in one app.",
       "title_uk": "Що таке DronController?",
-      "text_uk": "Керування, відео, мапа й телеметрія — в одному застосунку.",
-      "url": "https://github.com/miagton/DroneController_Docs/wiki/Overview"
+      "text_uk": "Керування, відео, мапа й телеметрія НРК — в одному застосунку.",
+      "url": "https://github.com/miagton/DroneController_Docs/wiki/Operator-Start"
     },
     {
       "title": "Reading the HUD",
-      "text": "Horizon, heading, GPS and telemetry — and where they come from.",
+      "text": "Link, battery, GPS, arming and mode at a glance — and what each block opens.",
       "title_uk": "Як читати HUD",
-      "text_uk": "Авіагоризонт, курс, GPS і телеметрія — та їхні джерела.",
-      "url": "https://github.com/miagton/DroneController_Docs/wiki/HUD"
+      "text_uk": "Зв'язок, батарея, GPS, армування й режим одним поглядом — і що відкриває кожен блок.",
+      "url": "https://github.com/miagton/DroneController_Docs/wiki/Operator-HUD"
     },
     {
-      "title": "Working with the Map",
-      "text": "Providers, zoom, follow mode and Starlink heading.",
-      "title_uk": "Робота з мапою",
-      "text_uk": "Провайдери, масштаб, режим стеження та курс Starlink.",
-      "url": "https://github.com/miagton/DroneController_Docs/wiki/Map"
+      "title": "Controller ready?",
+      "text": "Connect your controller and run the calibration wizard in a minute.",
+      "title_uk": "Пульт готовий?",
+      "text_uk": "Під'єднайте пульт і пройдіть майстер калібрування за хвилину.",
+      "url": "https://github.com/miagton/DroneController_Docs/wiki/Operator-Driving"
     },
     {
-      "title": "Pick your config",
-      "text": "In General, choose your UGV type and preset from the two dropdowns — configs are fetched automatically.",
-      "title_uk": "Оберіть конфіг",
-      "text_uk": "У «Загальних» оберіть тип НРК і пресет у двох списках — конфіги завантажуються автоматично.",
-      "url": "https://github.com/miagton/DroneController_Docs/wiki/General"
+      "title": "Video choppy or stuck?",
+      "text": "Read the stream badge: transport, state and what to try first.",
+      "title_uk": "Відео смикається чи стоїть?",
+      "text_uk": "Подивіться на значок стріму: транспорт, стан і що спробувати спершу.",
+      "url": "https://github.com/miagton/DroneController_Docs/wiki/Operator-Video"
     },
     {
-      "title": "Streaming settings",
-      "text": "Review of streaming settings.",
-      "title_uk": "Налаштування стрімів",
-      "text_uk": "Огляд налаштувань стрімів.",
-      "url": "https://github.com/miagton/DroneController_Docs/wiki/Streaming"
+      "title": "Can you reach the UGV?",
+      "text": "Devices, WireGuard tunnel and Starlink link — all in Network.",
+      "title_uk": "Чи доступна НРК?",
+      "text_uk": "Пристрої, тунель WireGuard і канал Starlink — усе в розділі «Мережа».",
+      "url": "https://github.com/miagton/DroneController_Docs/wiki/Operator-Network"
     },
     {
-      "title": "Getting connected",
-      "text": "Transports, endpoints and connection health.",
-      "title_uk": "Підключення",
-      "text_uk": "Транспорти, кінцеві точки та стан зв'язку.",
-      "url": "https://github.com/miagton/DroneController_Docs/wiki/Connection"
+      "title": "Something not working?",
+      "text": "Check Connection health and use Fix app state before restarting.",
+      "title_uk": "Щось не працює?",
+      "text_uk": "Перевірте стан з'єднань і спробуйте «Відновити стан застосунку» перед перезапуском.",
+      "url": "https://github.com/miagton/DroneController_Docs/wiki/Operator-Troubleshooting"
     },
     {
-      "title": "Control & input",
-      "text": "Remap axes, bind buttons and calibrate the joystick.",
-      "title_uk": "Керування та ввід",
-      "text_uk": "Перепризначення осей, прив'язка кнопок і калібрування джойстика.",
-      "url": "https://github.com/miagton/DroneController_Docs/wiki/Control"
+      "title": "Engineers: add a camera",
+      "text": "RTSP, WebRTC or SRT — which transport to pick and how to set it up.",
+      "title_uk": "Інженерам: додати камеру",
+      "text_uk": "RTSP, WebRTC чи SRT — який транспорт обрати і як його налаштувати.",
+      "url": "https://github.com/miagton/DroneController_Docs/wiki/Engineer-Streams"
     },
     {
-      "title": "Secure links: WireGuard",
-      "text": "Select a tunnel, connect and watch the monitor.",
-      "title_uk": "Захищені канали: WireGuard",
-      "text_uk": "Оберіть тунель, підключіться та стежте за монітором.",
-      "url": "https://github.com/miagton/DroneController_Docs/wiki/WireGuard"
+      "title": "Engineers: cameras behind the tunnel",
+      "text": "Discovery finds them on its own once WireGuard is up.",
+      "title_uk": "Інженерам: камери за тунелем",
+      "text_uk": "Виявлення знаходить їх саме, щойно піднімається WireGuard.",
+      "url": "https://github.com/miagton/DroneController_Docs/wiki/Engineer-Networking"
     }
   ]
 }
